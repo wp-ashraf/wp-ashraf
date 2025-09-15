@@ -1,6 +1,6 @@
 ### Hi there! this is Ashraf 👋
-<img align="center" src="https://github-readme-stats-3tplr9qq9-ashrafs-projects-7533865f.vercel.app/api?username=wp-ashraf&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats-3tplr9qq9-ashrafs-projects-7533865f.vercel.app/api/top-langs/?username=wp-ashraf&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wp-ashraf&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wp-ashraf&layout=compact" />
 <!--
 **wp-ashraf/wp-ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
